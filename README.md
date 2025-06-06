@@ -1,29 +1,43 @@
-<<<<<<< HEAD
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+# 🤖 Cognitia – Your AI Chat Assistant (Powered by Gemini API)
 
-## Getting Started
+Cognitia is an intelligent, AI-powered chat assistant inspired by ChatGPT – but powered by Google's **Gemini API**. It allows users to chat with an AI that understands natural language and responds helpfully, making it ideal for learning, content creation, coding help, and more.
 
-First, add your OpenAI API key to `.env.local` file:
+---
 
-```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
+## 🚀 Features
 
-Then, run the development server:
+- 🧠 Powered by Gemini API (Google's AI model)
+- 💬 Smooth real-time chat interface
+- 🌐 Understands and responds in natural language
+- 📱 Responsive & clean UI design
+- 🔐 API key-based integration
+- 🛠️ Developer-friendly & easy to extend
+
+---
+
+## 🛠️ Built With
+
+- **Frontend**: HTML, CSS, JavaScript *(or React, if applicable)*
+- **AI Engine**: Gemini API (Google Generative AI)
+- **Backend**: None / Firebase / Node.js *(if any)*
+
+---
+
+## 📦 Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Clone the repository
+git clone https://github.com/sumitDev11/Cognitia.git
+
+# Go into the project folder
+cd Cognitia
+
+# If using Node or npm
+npm install
+
+# Start your app (if needed)
+npm start
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-=======
-# Cognitia
->>>>>>> e98a4bc86b35c2d6b4f5ab2e5440e92e67023459
