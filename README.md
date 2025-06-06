@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
 
 ## Getting Started
@@ -23,3 +24,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+=======
+# Cognitia
+>>>>>>> e98a4bc86b35c2d6b4f5ab2e5440e92e67023459
