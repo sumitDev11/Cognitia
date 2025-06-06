@@ -20,7 +20,7 @@ Cognitia is an intelligent, AI-powered chat assistant inspired by ChatGPT – bu
 - **Frontend**: HTML, CSS, JavaScript *(or React, if applicable)*
 - **AI Engine**: Gemini API (Google Generative AI)
 - **Backend**: None / Firebase / Node.js *(if any)*
-
+Link = https://cognitia-l5kh.vercel.app/
 ---
 
 ## 📦 Installation
